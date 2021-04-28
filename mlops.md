@@ -17,7 +17,7 @@
     - "the disposable model" 
     - environment management (poetry) 
     - cloud compute spin up with cml
-  - Automated testing, linting, formatting standards
+  - Automated testing, linting, formatting standards, cookiecutter 
   - GitFlow + DVC 
   - Automated deployment pipelines 
   - Data management
